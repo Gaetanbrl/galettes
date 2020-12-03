@@ -1,20 +1,20 @@
 .. galettes documentation master file, created by
-   sphinx-quickstart on Thu Dec  3 14:38:28 2020.
+   sphinx-quickstart on Thu Dec  3 12:15:27 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to galettes's documentation!
+La galette bretonne
 ====================================
 
+Découvrez l'histoire et la recette de la galette bretonne !
+
+.. image:: _img/galette.png
+   :width: 600
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :maxdepth: 1
+   :caption: Documentation utilisateur
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   doc_main/histoire
+   doc_main/recette
